@@ -91,7 +91,7 @@ result1 = (hak>0) && (devam == 'e'); //true
 result1 = (x > 0) || ( x % 2 ==0); // sayı sıfırdan büyükse ve sayı çift sayı ise true.
 
 
-// noy (!)
+// not (!)
 // true => false
 //false => true
 result1 = !(x>0); //false. x sıfırdan küçük değilse true.
